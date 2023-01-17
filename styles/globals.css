@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-display: swap;
+  height: 100vh;
+  cursor: pointer;
+}
